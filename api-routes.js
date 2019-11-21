@@ -1,4 +1,3 @@
-it.
 // Filename: api-routes.js
 // Initialize express router
 let router = require('express').Router();
